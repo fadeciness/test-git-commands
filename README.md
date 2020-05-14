@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/fadeciness/fuel-consumption.svg?branch=master)](https://travis-ci.com/fadeciness/fuel-consumption) [![codecov](https://codecov.io/gh/fadeciness/fuel-consumption/branch/master/graph/badge.svg)](https://codecov.io/gh/fadeciness/fuel-consumption)
